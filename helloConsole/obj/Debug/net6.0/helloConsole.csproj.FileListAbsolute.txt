@@ -1,0 +1,15 @@
+/Users/macbook/Documents/gb_lectures/helloConsole/bin/Debug/net6.0/helloConsole
+/Users/macbook/Documents/gb_lectures/helloConsole/bin/Debug/net6.0/helloConsole.deps.json
+/Users/macbook/Documents/gb_lectures/helloConsole/bin/Debug/net6.0/helloConsole.runtimeconfig.json
+/Users/macbook/Documents/gb_lectures/helloConsole/bin/Debug/net6.0/helloConsole.dll
+/Users/macbook/Documents/gb_lectures/helloConsole/bin/Debug/net6.0/helloConsole.pdb
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.csproj.AssemblyReference.cache
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfoInputs.cache
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfo.cs
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.dll
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/refint/helloConsole.dll
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.pdb
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/helloConsole.genruntimeconfig.cache
+/Users/macbook/Documents/gb_lectures/helloConsole/obj/Debug/net6.0/ref/helloConsole.dll
